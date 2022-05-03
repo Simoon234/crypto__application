@@ -14,4 +14,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 This is fully responsive cryptocurrency application built with React/Redux/Typescript 👍
 Here you can see the result:
-https://cryptoonews.netlify.app/
+https://cryptonewss.netlify.app/
