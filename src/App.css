@@ -126,6 +126,15 @@ a {
   }
 }
 
+@media screen and (max-width: 660px) {
+  .crypto__details-container {
+    flex-direction: column;
+  }
+  .crypto__details-statistics {
+    margin-bottom: 40px;
+  }
+}
+
 
 @media screen and (max-width: 460px) {
   .news__header {
