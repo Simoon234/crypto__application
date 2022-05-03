@@ -1,0 +1,84 @@
+.crypto__container {
+    padding: 1.4rem;
+}
+
+.crypto__header {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.crypto__header button {
+    background: #000000;
+    padding: 0.4rem;
+    border: 1px solid #000000;
+    border-radius: 4px;
+    cursor: pointer;
+    color: #ffffff;
+    box-shadow: 0  0 10px #6d6a6a;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.crypto__header input {
+    padding: 0.3rem;
+}
+
+.coin__section {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.coin__section a {
+    color: black;
+}
+
+.coin__box {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 250px;
+    background: #fcfcfc;
+    margin: 20px;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    transition: 250ms ease;
+    box-shadow: 0  0 10px #cac5c5;
+}
+
+.coin__box:hover {
+    transform: scale(1.05);
+}
+.coin__header {
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.coin__header p {
+    font-size: 1.1rem;
+    color: #575555;
+}
+
+.coin__header img {
+    width: 50px;
+    height: 100%;
+}
+.coin__info-details p {
+    margin-bottom: 0.9rem;
+}
+
+.coin__info-details span {
+    color: #e37e23;
+    font-weight: bold;
+}
+
+.coin__info-details p:last-child {
+    margin: 0;
+}
+
+

@@ -1,0 +1,86 @@
+.crypto__details {
+    display: flex;
+    flex-direction: column;
+    padding-top: 2rem;
+}
+
+.crypto__details hr {
+    margin: 20px;
+}
+
+.crypto__details h3 {
+    text-align: center;
+    font-size: 3rem;
+    color: orange;
+}
+
+.crypto__details h3 span {
+    color: black;
+    font-style: italic;
+    font-size: 2.4rem;
+}
+
+.crypto__details-container {
+    padding: 1rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.crypto__details-statistics {
+    min-width: 300px;
+    text-align: center;
+}
+
+.crypto__details-statistics h4 {
+    font-size: 1.6rem;
+    color: orange;
+    margin-bottom: 30px;
+}
+
+.crypto__details-statistics p {
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.crypto__details-statistics span {
+    color: #b629ff;
+}
+
+.crypto__details-information {
+    padding: 3rem;
+}
+.crypto__details-information h4, .crypto__details-links h4 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2rem;
+    color: orange;
+}
+
+.crypto__details-information p {
+    margin-bottom: 20px;
+}
+
+.crypto__details-information p:last-child {
+    margin-bottom: 0;
+}
+
+.crypto__details-information h3 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+
+.crypto__details-links{
+    padding: 2rem;
+}
+.links {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 1.2rem;
+}
+.links p {
+    margin-bottom: 1rem;
+    font-style: italic;
+}

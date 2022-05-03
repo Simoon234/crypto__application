@@ -1,0 +1,23 @@
+.crypto__global-information {
+ position: relative;
+}
+
+.crypto__global-information-details {
+ display: grid;
+ text-align: center;
+ grid-template-columns: repeat(3, 1fr);
+ padding: 2rem 0;
+}
+
+.crypto__global-information-details p {
+ margin: 1rem 0;
+ font-size: 1.2rem;
+ font-style: italic;
+}
+
+
+.crypto__global-information-details span {
+ font-size: 1.4rem;
+ color: #e37e23;
+ font-weight: bold;
+}
