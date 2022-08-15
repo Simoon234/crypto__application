@@ -94,7 +94,10 @@ Start the server
 <!-- Contact -->
 ## :handshake: Contact
 
-Your Name - Szymon - simon98181@gmail.com
+Szymon - simongetbug@gmail.com 
+
+
+Have a nice day 💝
 
 
 
