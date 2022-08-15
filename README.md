@@ -1,17 +1,102 @@
-# Getting Started with Create React App
+<div align="center">
+  <h1> 🔥 Crypto APP 🔥</h1>
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
+<!-- Table of Contents -->
+# :notebook_with_decorative_cover: Table of Contents
 
-## Available Scripts
+- [About the Project](#star2-about-the-project)
+  * [Screenshots](#camera-screenshots)
+  * [Tech Stack](#space_invader-tech-stack)
+  * [Live](#globe_with_meridians-live)
+  * [Installation](#gear-installation)
+  * [Run Locally](#running-run-locally)
+- [Contact](#handshake-contact)
 
-In the project directory, you can run:
+  
 
-### `npm start`
+<!-- About the Project -->
+## :star2: About the Project
+This is CRYPTO project, where you can get all informations about crypto, all articales about it and many more. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<!-- Screenshots -->
+### :camera: Screenshots
+
+<div align="center"> 
+  <img src="https://snipboard.io/e0btxy.jpg" alt="home-page" />
+  <img src="https://snipboard.io/OT7yHn.jpg" alt="home-page" />
+  <img src="https://snipboard.io/2pd3sO.jpg" alt="home-page" />
+  <img src="https://snipboard.io/DYi9PB.jpg" alt="home-page" />
+  <img src="https://snipboard.io/ymkp6e.jpg" alt="home-page" />
+  <img src="https://snipboard.io/TW9G8o.jpg" alt="home-page" />
+  <img src="https://snipboard.io/e0btxy.jpg" alt="home-page" />
+  <img src="https://snipboard.io/suEXfM.jpg" alt="home-page" />
+  <img src="https://snipboard.io/4UiDn6.jpg" alt="home-page" />  
+</div>
 
 
-This is fully responsive cryptocurrency application built with React/Redux/Typescript 👍
-Here you can see the result:
-https://cryptonewss.netlify.app/
+<!-- TechStack -->
+### :space_invader: Tech Stack
+
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://redux.js.org/">Redux</a></li>
+  </ul>
+  
+  
+<!-- Live -->
+### :globe_with_meridians: Live
+
+`Link:`
+https://cryptonewss.netlify.app
+
+
+
+<!-- Installation -->
+### :gear: Installation
+
+Install my-project with npm
+
+```bash
+  npm install my-project
+  cd my-project
+```
+
+<!-- Run Locally -->
+### :running: Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Simoon234/crypto__application.git
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+<!-- Contact -->
+## :handshake: Contact
+
+Your Name - Szymon - simon98181@gmail.com
+
+
+
+
+
